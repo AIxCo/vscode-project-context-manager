@@ -1,0 +1,16 @@
+# Start Generation Here
+# Ignore the build output directory
+dist/
+# Ignore the node_modules directory
+node_modules/
+# Ignore the VS Code extension packaging files
+.vscode-test/
+.vscode/
+# Ignore the local configuration files
+*.code-workspace
+# Ignore log files
+*.log
+# Ignore the compiled TypeScript files
+*.js
+*.js.map
+# End Generation Here
