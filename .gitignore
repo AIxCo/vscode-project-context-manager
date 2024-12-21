@@ -14,3 +14,5 @@ node_modules/
 *.js
 *.js.map
 # End Generation Here
+
+cursor_context/
